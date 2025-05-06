@@ -10,9 +10,9 @@ O objetivo é facilitar a análise e o acompanhamento de metas sustentáveis par
 
 ## 🗂️ Estrutura do Projeto
 
-- `indicadores_sustentabilidade.pbit`: Arquivo do Power BI com modelo e visualizações  
+- `Indicador de Sustentabilidade - Projeto.pbix`: Arquivo do Power BI com modelo e visualizações  
 - `indicadores_esg.xlsx`: Base de dados fictícia utilizada  
-- `relatorio_sustentabilidade.pdf`: Versão exportada do dashboard em PDF  
+- `Indicador de Sustentabilidade - Projeto.pdf`: Versão exportada do dashboard em PDF  
 - `screenshot.png`: Captura de tela do dashboard
 
 ---
